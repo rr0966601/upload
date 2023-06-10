@@ -6,4 +6,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: http://summertasks.hsdc.ac.uk/sitemap.xml
+Sitemap: http://fcibcm.fullcoll.edu/sitemap.xml
